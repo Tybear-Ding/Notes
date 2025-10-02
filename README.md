@@ -10,7 +10,6 @@ They contain
 
 Recommended notes: 
 
-    -Quantum Mechanics (undergraduate level): 
-    -Advanced Quantum Mechanics (a revised edition of Quantum Mechanics, graduate-level): 
-    -Astrophysics (undergraduate level, without general relativity): 
-    -Statistical Mechanics (undergraduate level).
+    -Quantum Mechanics (undergraduate level).
+    -Advanced Quantum Mechanics (a revised edition of Quantum Mechanics, graduate-level).
+    -Astrophysics (undergraduate level, no general relativity).
