@@ -4,12 +4,13 @@ They contain
 
 	-Summaries of textbooks for undergraduate and graduate studies.
 	-Materials from lecture notes.
-    -Many detailed derivations and examples that are not covered in the main text of textbooks.
+    -Many detailed derivations and examples that are not covered in the main text of textbooks. 
+	 They are usually presented in Appendices in notes.
     -Self-created figures/plots.
 
 Recommended notes: 
 
-    -Quantum Mechanics (undergraduate level).
-    -Advanced Quantum Mechanics (a revised edition of Quantum Mechanics, graduate-level).
-    -Astrophysics (undergraduate level).
+    -Quantum Mechanics (undergraduate level): 
+    -Advanced Quantum Mechanics (a revised edition of Quantum Mechanics, graduate-level): 
+    -Astrophysics (undergraduate level, without general relativity): 
     -Statistical Mechanics (undergraduate level).
