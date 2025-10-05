@@ -1,4 +1,4 @@
-These notes were written starting from Jan. 4, 2022. All notes are continuously updating. 
+These notes were written starting from Sep. 6, 2022. All notes are continuously updating. 
 
 They contain
 
